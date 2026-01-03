@@ -19,6 +19,4 @@ A simple TCP echo server in C++ using **epoll** for high-performance I/O multipl
 
 ## TEST
 By default set to 9001 connect using
-telnet 127.0.0.1 9001
-# or
-nc 127.0.0.1 9001
+telnet 127.0.0.1 9001 or nc 127.0.0.1 9001
