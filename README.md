@@ -1,4 +1,4 @@
-# Cat Server
+# TCP Server
 
 A simple TCP echo server in C++ using **epoll** for high-performance I/O multiplexing. The server accepts multiple clients, reads incoming messages, prints them to the console, and echoes them back to the client.
 
